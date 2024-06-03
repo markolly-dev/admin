@@ -1,7 +1,7 @@
 # This settings can be used to create repo level settings
 repository: 
   # Name of the repo
-  name: safe-repo-1
+  name: safe-repo-2
  
   # Create the repo if it is not existing
   force_create: true
