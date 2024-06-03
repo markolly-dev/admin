@@ -24,7 +24,6 @@ repository:
     
   # A comma-separated list of topics to set on the repository
   topics: 
-  - github
   - safe-settings
   
   # Settings for Code security and analysis
